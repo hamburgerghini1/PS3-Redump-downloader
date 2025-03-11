@@ -64,7 +64,7 @@ Contributions are welcome. If you find any bugs or have any suggestions for impr
 
 ### Author
 
-This project was developed by **[juanpomares](https://github.com/juanpomares/)**.
+This project was developed by **[juanpomares](https://github.com/juanpomares/)** and modded by **[javierchip](https://javierchip.com)**
 
 ### License
 
