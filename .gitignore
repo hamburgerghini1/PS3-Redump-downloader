@@ -1,8 +1,6 @@
 *.json
 *.zip
 *.iso
-*.key
-*.dkey
 
 output
 

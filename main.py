@@ -264,7 +264,7 @@ def decryptFile(gameName):
         print("Error getting decrypting game key :(\n")
         return
 
-    command = f'ps3dec d key {decrypted_key} "{original_game_path_name}" "{gameName}.iso"'
+    command = f'PS3Dec d key {decrypted_key} "{original_game_path_name}" "{gameName}.iso"'
     os.system(command)
 
     decrypted_file = f'{gameName}.iso'
